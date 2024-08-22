@@ -1,4 +1,4 @@
-## Hi there 👋 I am Hung-Ling Lai, a Data Analyst from Taiwan
+## Hi there 👋 I am [Hung-Ling Lai](https://www.linkedin.com/in/honnielai), a Data Analyst from Taiwan
 
 <!--
 **Honniexxi/Honniexxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
